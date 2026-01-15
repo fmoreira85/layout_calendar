@@ -7,8 +7,6 @@
 
   width: calc((#{$day} * 7) + (#{$gap} * 6) + (#{$pad} * 2));
 
-  margin: 0;
-
   &__day {
     width: $day;
     height: $day;
